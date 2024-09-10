@@ -1,0 +1,4 @@
+baseURL = 'https://sbohems.github.io/'
+languageCode = 'en-us'
+title = 'Sebastien Bohems homepage'
+theme = 'lynx'
